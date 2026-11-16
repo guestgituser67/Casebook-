@@ -1,2 +1,2 @@
 # Casebook
-# Adventure Detective thingy?
+Adventure Detective thingy?
